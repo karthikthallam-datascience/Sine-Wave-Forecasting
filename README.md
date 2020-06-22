@@ -14,4 +14,5 @@ Forecasting on a Sequential Data like Sine wave using Recurrent Neural Network(R
     a) TimeSeriesGenerator class will create bacthes from train data for training processes off of it
     
     
-5) Creating the model with SimpleRNN, LSTM and compare the results    
+5) Creating the model with SimpleRNN, LSTM and compare the results   
+
